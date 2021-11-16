@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.585.0",
+    "aws-sdk": "^2.814.0",
     "bottlejs": "^1.7.2",
     "typescript": "^3.7.3"
   },
